@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b style="color:blue;">Aishakhan34</b>
+- 👋 Hi, I’m <b style='color:blue'>Aishakhan34</b>
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
